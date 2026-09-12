@@ -1,2 +1,2 @@
 # Team.Sec
-## Software development team intended for security
+![](./Slide 16_9 - 1
